@@ -1,4 +1,4 @@
-package com.order_service.order_service.config;
+package com.payment_service.payment_service.config;
 
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;

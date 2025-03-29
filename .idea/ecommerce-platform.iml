@@ -8,7 +8,7 @@
       <sourceFolder url="file://$MODULE_DIR$/order-service" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/product-service" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/user-service" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/auth-service" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/notification-service" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

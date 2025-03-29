@@ -1,4 +1,4 @@
-package com.order_service.order_service.config;
+package com.payment_service.payment_service.config;
 
 import jakarta.servlet.http.HttpServletResponse;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -43,3 +43,4 @@ public class SecurityConfig {
         return config.getAuthenticationManager();
     }
 }
+
